@@ -1,0 +1,16 @@
+{
+  "JOKERMOD-JOKER_MOD.title": "The Joker",
+  "JOKERMOD-JOKER_MOD.titleObject": "the Joker",
+  "JOKERMOD-JOKER_MOD.description": "A scavenged automaton that plays every hand in the Spire.",
+  "JOKERMOD-JOKER_MOD.pronounObject": "them",
+  "JOKERMOD-JOKER_MOD.possessiveAdjective": "their",
+  "JOKERMOD-JOKER_MOD.pronounPossessive": "theirs",
+  "JOKERMOD-JOKER_MOD.pronounSubject": "they",
+  "JOKERMOD-JOKER_MOD.goldMonologue": "Every trick has a price.",
+  "JOKERMOD-JOKER_MOD.eventDeathPrevention": "The Joker folds the losing hand and deals again.",
+  "JOKERMOD-JOKER_MOD.aromaPrinciple": "wild",
+  "JOKERMOD-JOKER_MOD.cardsModifierTitle": "All Hands",
+  "JOKERMOD-JOKER_MOD.cardsModifierDescription": "Card rewards can contain cards from every character.",
+  "JOKERMOD-JOKER_MOD.banter.alive.endTurnPing": "Deal.",
+  "JOKERMOD-JOKER_MOD.banter.dead.endTurnPing": "The hand is empty."
+}

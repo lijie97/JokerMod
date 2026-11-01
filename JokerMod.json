@@ -1,0 +1,14 @@
+﻿{
+  "id": "JokerMod",
+  "name": "JokerMod",
+  "author": "lijie",
+  "description": "A Slay the Spire 2 character that starts with every character's basic kit and draws cards, relics, and potions from every character pool.",
+  "version": "v0.1.0",
+  "min_game_version": "0.107.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [
+    {"id": "BaseLib", "min_version": "3.3.3"}
+  ],
+  "affects_gameplay": true
+}

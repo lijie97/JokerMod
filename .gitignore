@@ -1,0 +1,22 @@
+.godot/
+.template/
+bin/
+/android/
+.git/
+.idea/
+.vs/
+publish/
+Properties/
+packages/
+.editorconfig
+*.user
+Directory.Build.props
+
+# Machine-local Godot export and build output
+*.dll
+*.pdb
+*.pck
+
+# Personal Steam library captures. Not part of the mod.
+exports/
+tools/
